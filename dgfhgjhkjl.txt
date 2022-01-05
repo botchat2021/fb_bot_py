@@ -1,1 +1,0 @@
-callback(): is used to call another function ==> it can run after another function has finished
